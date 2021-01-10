@@ -4,6 +4,8 @@
   "description": "The goal of this challenge is to create a service integration to a public API and expose a RESTful endpoint that will accept requests and returns a modified response schema from the integrated API.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "start:dev": "nodemon ./backend/app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
