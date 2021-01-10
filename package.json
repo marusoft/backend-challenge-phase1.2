@@ -1,0 +1,26 @@
+{
+  "name": "backend-challenge-phase1.2",
+  "version": "1.0.0",
+  "description": "The goal of this challenge is to create a service integration to a public API and expose a RESTful endpoint that will accept requests and returns a modified response schema from the integrated API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marusoft/backend-challenge-phase1.2.git"
+  },
+  "keywords": [
+    "restfulapi",
+    "node",
+    "express",
+    "axios",
+    "javascript"
+  ],
+  "author": "alimi kehinde m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marusoft/backend-challenge-phase1.2/issues"
+  },
+  "homepage": "https://github.com/marusoft/backend-challenge-phase1.2#readme"
+}
