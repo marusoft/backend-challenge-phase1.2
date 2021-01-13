@@ -1,6 +1,8 @@
 # backend-challenge-phase1.2
 The goal of this challenge is to create a service integration to a public API and expose a RESTful endpoint that will accept requests and returns a modified response schema from the integrated API.
 
+# Heroku link
+ [https://alimi-backend-challenge.herokuapp.com/api/rates?base=CZK&currency=EUR,GBP,USD](https://alimi-backend-challenge.herokuapp.com/api/rates?base=CZK&currency=EUR,GBP,USD)
 # Getting Started
 
 #### `git clone https://github.com/marusoft/backend-challenge-phase1.2.git`
